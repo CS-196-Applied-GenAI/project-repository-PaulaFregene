@@ -190,3 +190,4 @@ The smallest practical, safe sequence (each step can be a single PR/commit):
    - Ensure both fields are present and empty on fallback/error paths.
 
 This progression minimizes risk: you get tests in place *before* the public API shape changes, and every step is independently verifiable.
+

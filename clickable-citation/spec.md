@@ -185,3 +185,4 @@ Then append `#page={page}`.
   - likely requires moving away from bare `<iframe>` to a controllable PDF viewer (e.g., PDF.js or `react-pdf`) to support text-layer selection/highlight.
 - Citation tooltip transparency:
   - show raw filename on hover while displaying friendly display name in the main label.
+

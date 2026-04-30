@@ -199,3 +199,4 @@ Requirements:
 Output:
 - Provide a short manual smoke-test checklist for a developer to run locally (commands + a sample curl/httpie request).
 ```
+
